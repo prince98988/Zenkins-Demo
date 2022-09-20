@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManagerApp", "ImageManagerApp\ImageManagerApp.csproj", "{AFA031F0-FFA3-47FD-9FAC-D0FC8A2FE777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA031F0-FFA3-47FD-9FAC-D0FC8A2FE777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA031F0-FFA3-47FD-9FAC-D0FC8A2FE777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA031F0-FFA3-47FD-9FAC-D0FC8A2FE777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA031F0-FFA3-47FD-9FAC-D0FC8A2FE777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F76C5EF-1140-41DA-8B97-87CC0ED7ADD4}
+	EndGlobalSection
+EndGlobal

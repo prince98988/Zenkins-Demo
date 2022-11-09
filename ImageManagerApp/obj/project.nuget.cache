@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "t/JYIJEF3amOuL9cYxR0ofAYWoB3IgRjMeZAEr7gIy6IDT+ALszaKL+AeT+KSIT1qo+HeVTk08M1M7r7UUnBbQ==",
+  "dgSpecHash": "6SvINQPuKj9WBPEfhjDrXbDcJ2ynCd09Z4UGu2MQ6qEFyuZJEfHuk8Rop7FFdR9ZG05CxVnam1V4mE5P6k7YsQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\PPrajapati\\source\\repos\\Project\\ImageManagerApp\\ImageManagerApp\\ImageManagerApp.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Users\\PPrajapati\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
     "C:\\Users\\PPrajapati\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
     "C:\\Users\\PPrajapati\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\PPrajapati\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\PPrajapati\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\PPrajapati\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\PPrajapati\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

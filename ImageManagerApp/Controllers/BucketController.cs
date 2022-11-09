@@ -9,7 +9,7 @@ namespace ImageManagerApp.Controllers
         private readonly IAmazonS3 _s3Client;
         public BucketController()
         {
-            var credentials = new BasicAWSCredentials("AKIAXVYKHZT4JY5YR3OQ", "evSoJosRddBWib0j4OieCqTGjowMka1bnIfADAIT");
+            var credentials = new BasicAWSCredentials("AKIAXVYKHZT4IOP7RJN5", "Te47ACorseK2sBfZtWzOhIBPj7OLk0kjyTS3g9M7");
             _s3Client = new AmazonS3Client(credentials, Amazon.RegionEndpoint.USEast1);
         }
 

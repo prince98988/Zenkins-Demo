@@ -34,3 +34,5 @@ C:\Users\PPrajapati\source\repos\Project\ImageManagerApp\ImageManagerApp\bin\Deb
 C:\Users\PPrajapati\source\repos\Project\ImageManagerApp\ImageManagerApp\bin\Debug\net6.0\Amazon.Lambda.Core.dll
 C:\Users\PPrajapati\source\repos\Project\ImageManagerApp\ImageManagerApp\bin\Debug\net6.0\Amazon.Lambda.Logging.AspNetCore.dll
 C:\Users\PPrajapati\source\repos\Project\ImageManagerApp\ImageManagerApp\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\PPrajapati\source\repos\Project\ImageManagerApp\ImageManagerApp\bin\Debug\net6.0\Amazon.Lambda.AspNetCoreServer.Hosting.dll
+C:\Users\PPrajapati\source\repos\Project\ImageManagerApp\ImageManagerApp\bin\Debug\net6.0\Amazon.Lambda.RuntimeSupport.dll
